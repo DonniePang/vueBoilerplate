@@ -7,7 +7,7 @@ npm install
 ```
 npm run dev
 ```
-## build
+## Build
 ```
 npm run prod
 ```
